@@ -1,4 +1,4 @@
-# Splotl
+# Historic Splotl
 ## Bob
 ## Introduction
 
