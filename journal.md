@@ -1,5 +1,5 @@
 # Splotl Axolotl
-## Bob,Rita
+## Bob,Rita,Sue
 ## Introduction
 
 Blah blah blah
