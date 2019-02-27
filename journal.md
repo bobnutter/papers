@@ -20,3 +20,7 @@ Suck it and see
 ## Results
 
 Are a secret
+
+## Figures
+
+It sure does
