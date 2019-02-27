@@ -1,5 +1,5 @@
-# Splotl
-## Bob
+# Splotl Axolotl
+## Rita, Bob
 ## Introduction
 
 Blah blah blah
@@ -7,3 +7,8 @@ Blah blah blah
 ## Citations
 Ref1: Dave Null
 Ref2: Big Barry
+
+## Simulations
+
+testy test
+
