@@ -1,14 +1,10 @@
 # Splotl Axolotl
-<<<<<<< HEAD
 ## Bob,Rita,Sue Too
-=======
-## Bob,Rita,Sue
 
 ## Abstract
 
 Is better
 
->>>>>>> add abstract
 ## Introduction
 
 Blah blah blah
